@@ -1,0 +1,7 @@
+	This Python module is tailored for historical lingustics. It allows you to create an object
+representing a lexical item, apply linguistic mutations (either custom ones, or mutations from our
+built-in library) to the object, and then find the form of the word throughout the past relative to
+the mutations that you applied to it. This module is quite powerful and portable. We hope you enjoy!
+
+	If you would like to submit your own mutations for the built-in file, feel free to fork it on
+GitHub and edit mutations.py. I'd gladly add them to the original at your request.
